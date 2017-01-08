@@ -5,3 +5,5 @@ Kulllanici girisli film sitesi
 
 kullanici adi : ktk
 sifre : 5535
+
+Proje bitti :)
