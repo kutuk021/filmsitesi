@@ -6,8 +6,8 @@
 
 if(isset($_POST["ad"])&& (isset($_POST["sifre"]))){
 	if($_POST["ad"]=="ktk" && $_POST["sifre"]=="5535"){
-		include("paylasim.php");
-		header('refresh:0; url=paylasim.php');
+		include("film.html");
+		header('refresh:0;'.' url=film.html');
 		}
 		else
 		echo "<hr>Kullanıcı adı veya şifre yanlış<hr>";

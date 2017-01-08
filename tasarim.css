@@ -17,8 +17,9 @@
 	height:250px;
 	border-radius:500px;
 	background:url(image/499106.jpg);
-	margin-top:30px;
+	margin-top:80px;
 	box-shadow: 3px 3px 3px #333;
+	padding:40px;
 	
 	}
 	#ic2:hover {
@@ -30,8 +31,9 @@
 	height:250px;
 	border-radius:500px;
 	background:url(image/a2770.jpg);
-	margin-top:30px;
+	margin-top:80px;
 	box-shadow: 3px 3px 3px #333;
+	padding:20px;
 	
 	}
 	#ic3:hover {
@@ -45,8 +47,8 @@
 	background:url(image/adana-isi.jpg);
 	margin-top:10px;
 	box-shadow: 3px 3px 3px #333;
-	margin-left:300px;
-	margin-top:-770px;
+	margin-left:350px;
+	margin-top:-900px;
 	padding:25px;
 	
 	}
@@ -54,15 +56,68 @@
 		opacity:0.5;
 	
 	}
-	#ic1 {
+	#ic5 {
+	width:250px;
+	height:250px;
+	border-radius:500px;
+	background:url(image/avanak-kuzenler.jpeg);
+	margin-top:10px;
+	box-shadow: 3px 3px 3px #333;
+	margin-left:600px;
+	margin-top:-500px;
+	padding:60px;
+	
 	
 	}
-	#ic1 {
+	#ic5:hover {
+		opacity:0.5;
 	
 	}
-	#ic1 {
+	#ic6 {
+	width:250px;
+	height:250px;
+	border-radius:500px;
+	background:url(image/avatar.jpg);
+	margin-top:10px;
+	box-shadow: 3px 3px 3px #333;
+	margin-left:900px;
+	margin-top:-300px;
+	
 	
 	}
-	#ic1 {
+	#ic6:hover {
+		opacity:0.5;
+	
+	}
+	#ic7 {
+	width:250px;
+	height:250px;
+	border-radius:500px;
+	background:url(image/cca5965629093b8c9cfd4f71edd88b9e.jpg);
+	margin-top:10px;
+	box-shadow: 3px 3px 3px #333;
+	margin-left:700px;
+	margin-top:170px;
+	padding:120px;
+	
+	}
+	#ic7:hover {
+		opacity:0.5;
+	
+	}
+	#ic8 {
+	width:250px;
+	height:250px;
+	border-radius:500px;
+	background:url(image/GI-JOE.jpg);
+	margin-top:10px;
+	box-shadow: 3px 3px 3px #333;
+	margin-left:300px;
+	margin-top:-350px;
+	padding:80px;
+	
+	}
+	#ic8:hover {
+		opacity:0.5;
 	
 	}
